@@ -12,6 +12,7 @@
     <artifactId>boot</artifactId>
     <version>1.0</version>
     <name>boot</name>
+    <package>war</package>
     <description>Demo project for Spring Boot</description>
 
     <properties>
